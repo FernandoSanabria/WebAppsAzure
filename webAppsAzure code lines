@@ -1,0 +1,8 @@
+*** Notes   
+
+
+dotnet new web -n WebAppsAzureCourse
+
+dotnet new mvc -n WebAppsAzureCourseSite
+
+
